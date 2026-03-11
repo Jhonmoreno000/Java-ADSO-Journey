@@ -16,10 +16,22 @@
 ## LA ASCENSIÓN TÉCNICA
 > Un viaje desde la lógica de consola hasta microservicios de alto rendimiento.
 
-### Estado del Entrenamiento
-<p align="center">
-  <img src="https://georgemari.vercel.app/api/progress?current=25&max=100&color=orange&text=Progreso%20Java%20Total" width="100%" />
-</p>
+### Estado del Entrenamiento (S-Rank Journey)
+
+<table width="100%">
+  <tr>
+    <td width="100%" background="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwZ3R4czZ4ZnI0Y3BwZzV4c2Z4ZnR4czZ4ZnI0Y3BwZzV4/3o7TKSj0W4E5325TDS/giphy.gif">
+      <div align="left" style="background: rgba(0,0,0,0.8); padding: 10px; border: 1px solid #FF9500;">
+        <b>PROGRESO TOTAL:</b> <code>25% [|||||----------------]</code>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+> **NIVEL ACTUAL:** 🟢 *Novice Java Dev*
+> **META:** 🟡 *OOP Architect*
 
 ---
 
@@ -28,9 +40,9 @@
 | Módulo | Nombre del Proyecto | Desafío Maestro | Tech Stack | Estado |
 | :--- | :--- | :--- | :--- | :--- |
 | **01** | `CashFlow-Intelligence` | Algoritmos de flujo y sanitización | `Core Java` | 🟢 **DONE** |
-| **02** | `Enterprise-Queue-System` | POO Profunda y Persistencia | `OOP` `I/O` | 🏗️ **IN WORK** |
-| **03** | `Global-API-Connector` | Integración de servicios externos | `REST` `JSON` | ⏳ **LOCKED** |
-| **04** | `E-Commerce-Core-API` | Arquitectura empresarial | `Spring` `JPA` | ⏳ **LOCKED** |
+| **02** | `Enterprise-Queue-System` | POO Profunda y Persistencia | `OOP` `I/O` |  **IN WORK** |
+| **03** | `Global-API-Connector` | Integración de servicios externos | `REST` `JSON` |  **LOCKED** |
+| **04** | `E-Commerce-Core-API` | Arquitectura empresarial | `Spring` `JPA` |  **LOCKED** |
 
 ---
 
@@ -56,20 +68,44 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
-## CONECTA CON EL TALENTO
-<div align="center">
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tu-correo@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
 <br />
 
+---
+<p align="center">
+  <b>« No te detengas hasta que tu código se sienta orgulloso de ti »</b>
+</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=50&section=footer" width="100%" />
+  <p> <b>SÍGUEME EN MI CAMINO:</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwZ3R4czZ4ZnI0Y3BwZzV4c2Z4ZnR4czZ4ZnI0Y3BwZzV4/3o7TKSj0W4E5325TDS/giphy.gif" width="100%" height="2px" />
+
+  <br>
+
+  <div align="center">
+
+# JAVA MONSTER MODE: ACTIVATED 
+> **`CONSTRUYENDO EL FUTURO DEL BACKEND`**
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwZ3R4czZ4ZnI0Y3BwZzV4c2Z4ZnR4czZ4ZnI0Y3BwZzV4/3o7TKSj0W4E5325TDS/giphy.gif" width="100%" height="3px" />
+
+</div>
+
+  <br>
+
+  <p align="center">
+    <a href="mailto:tu-correo@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <br>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI4M3R4czZ4ZnI0Y3BwZzV4MzI4M3R4czZ4ZnI0Y3BwZzV4/3o7TKSj0W4E5325TDS/giphy.gif" width="100%" height="2px" />
 </div>
